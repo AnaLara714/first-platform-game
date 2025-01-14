@@ -1,7 +1,7 @@
 ## Jogo plataforma 2D
 
 Feito para um processo seletivo de uma empresa de edução de programação para crianças e adolescentes
-![alt text](img-print-game.png)
+![alt text](img-print-game.png){width=200px}
 
 ## Tecnologias
 
