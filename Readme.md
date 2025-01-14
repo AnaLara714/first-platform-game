@@ -1,7 +1,7 @@
 ## Jogo plataforma 2D
 
 Feito para um processo seletivo de uma empresa de edução de programação para crianças e adolescentes
-![alt text](img-print-game.png){width=200px}
+![alt text](img-print-game.png)
 
 ## Tecnologias
 
@@ -14,8 +14,9 @@ Feito para um processo seletivo de uma empresa de edução de programação para
 
 ## Acesse
 
-- faça baixe o projeto em sua máquina
-- clique em Run Code (ou ctrl + alt + N)
+- faça download do projeto em sua máquina
+- abra em uma IDE
+- rode o arquivo game.py
 
 ## Atualizaçoes futuras
 
